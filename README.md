@@ -1,2 +1,5 @@
 # My Name is Champ
-Food Tomyamkoong
+
+Food: Tomyamkoong
+Address: Bangkok
+Job: Freelancer
